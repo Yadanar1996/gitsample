@@ -12,19 +12,19 @@
 	{
 	"id": "2",
 
-	       "imageurl": "https://static.pexels.com/photos/450270/pexels-photo-450270.jpeg",
+	       "imageurl": "https://www.pexels.com/photo/boulder-cascade-creek-environment-428065/",
 
-		"price": "100 MMK"
+		"price": "400 MMK"
 ,
-		"title": "computer"   
+		"title": "beauty"   
 	},
 	{
 	"id": "3",
 
-	       "imageurl": "https://static.pexels.com/photos/450270/pexels-photo-450270.jpeg",
+	       "imageurl": "https://www.pexels.com/photo/slice-of-eggs-on-cakes-793785/",
 
-		"price": "100 MMK"
+		"price": "500 MMK"
 ,
-		"title": "computer"   
+		"title": "egg"   
 	}
 ]
